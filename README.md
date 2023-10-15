@@ -1,6 +1,6 @@
 # Payment Gateway Integration
 
-## Deployed Website Link -> https://snehilsharma31.github.io/CodeClause-Payment-Gateway-Integration/
+## Deployed Website Link -> https://snehilsharma31.github.io/Payment-Gateway-Integration/
 
 ◉ This Repo showcases my project, that I've created for my Internship task at CodeClause.
 
